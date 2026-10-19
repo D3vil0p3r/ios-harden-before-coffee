@@ -1,4 +1,4 @@
-# iPhone Hardening in 10 Minutes
+# iPhone Hardening in 20 Minutes
 
 A short, practical iPhone hardening guide: only the settings that matter most, with no 100-step checklists.
 
@@ -12,7 +12,7 @@ Each step lists the exact menu path and one line explaining why it matters. Tick
 2. [Essentials](#2-essentials-5-min)
 3. [Lockdown Mode](#3-lockdown-mode-1-min)
 4. [Privacy quick wins](#4-privacy-quick-wins-3-min)
-5. [Go local: minimize iCloud (optional)](#5-go-local-minimize-icloud-optional)
+5. [Go local: minimize iCloud](#5-go-local-minimize-icloud-10-min)
 6. [Emergency: disable Face ID in 2 seconds](#6-emergency-disable-face-id-in-2-seconds)
 7. [Good habits](#7-good-habits)
 8. [What this guide does NOT protect against](#8-what-this-guide-does-not-protect-against)
