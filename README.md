@@ -1,4 +1,4 @@
-# iPhone Hardening in 20 Minutes
+# Harden Before Coffee
 
 A short, practical iPhone hardening guide: only the settings that matter most, with no 100-step checklists.
 
